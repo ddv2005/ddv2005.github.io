@@ -1,0 +1,20 @@
+{
+  "partitions": [
+    {
+      "address": "0x8000",
+      "file": "partitions.bin"
+    },
+    {
+      "address": "0xe000",
+      "file": "otadata  .bin"
+    },
+    {
+      "address": "0x10000",
+      "file": "firmware.bin"
+    },
+    {
+      "address": "0x390000",
+      "file": "spiffs.bin"
+    }
+  ]
+}
