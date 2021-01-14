@@ -15,7 +15,7 @@
       "file": "firmware.bin"
     },
     {
-      "address": "0x390000",
+      "address": "0x290000",
       "file": "spiffs.bin"
     }
   ]
