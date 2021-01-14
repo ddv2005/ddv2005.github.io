@@ -1,4 +1,6 @@
 {
+  "flash_mode": "qio",
+  "flash_freq": "40m",
   "partitions": [
     {
       "address": "0x8000",
