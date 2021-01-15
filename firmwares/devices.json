@@ -1,3 +1,6 @@
+{
+"baseurl" : "http://airsoftdevicesfirmwares.s3-website.us-east-2.amazonaws.com/firmwares/",
+"devices" :
 [
     {
       "name": "Airsoft Medic Device",
@@ -15,3 +18,4 @@
       "version": "1.0"    
     }
 ]
+}
